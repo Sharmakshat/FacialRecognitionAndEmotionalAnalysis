@@ -68,9 +68,9 @@ while True:
         name = "None Match"
 
         if pred[0][0] == 1:  # Adjust the threshold as per your model's requirement
-            name = "Hitesh"
+            name = "Akshat"
         elif pred[0][0] == 0 :
-            name = "Aditya"
+            name = "Akshat"
         else:
             name = "None Match"
 
